@@ -7,3 +7,17 @@
   / \## __   ./            @-@-@-oo\
 
 ```
+
+## Tech Stuff
+
+### Setup
+
+`npm i`
+
+### Build (Optional)
+
+`grunt build`
+
+### Run
+
+`npm start`
